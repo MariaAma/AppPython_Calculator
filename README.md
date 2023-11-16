@@ -2,7 +2,8 @@
 
 ## Introduction
 
-Welcome to the "Calculator" repository. This project focuses on developing a simple Calculator app with Python Code.
+Welcome to the "Calculator" repository. 
+This project focuses on developing a simple Calculator app with Python Code.
 
 ## Source
 
