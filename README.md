@@ -2,8 +2,8 @@
 
 ## Introduction
 
-Welcome to the "Calculator" repository. 
-This project focuses on developing a simple Calculator app with Python Code.
+Welcome to the Python Calculator project! 
+We're building a basic calculator that makes math easy. You can add, subtract, multiply, divide, and find percentages effortlessly. Our goal is to keep it simple and user-friendly. Let's take a look at the Python code and see how easy this calculator works!
 
 ## License
 
